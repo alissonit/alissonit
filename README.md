@@ -20,7 +20,7 @@ With over 14 years of experience in technology, I specialize in **cloud computin
 - **Cloud:** AWS, Azure, GCP  
 - **Containers & Orchestration:** Docker, Kubernetes, OpenShift  
 - **CI/CD & DevOps:** GitLab, GitHub Actions, Jenkins  
-- **Programming:** Python, Shell scripting  
+- **Programming:** Python, Java, Golang, Shell scripting  
 - **Infrastructure as Code:** Terraform, Ansible  
 
 ---
