@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alisson Castro  
 
-💻 **IT Specialist | Cloud | DevOps | Automation | Software Development**  
+💻 **IT Specialist | Cloud | DevOps | Automation | Software Engineering**  
 
-With over 14 years of experience in technology, I specialize in **cloud computing**, **DevOps practices**, **automation**, and **software engineering **. I hold multiple industry-recognized certifications and I’m passionate about building scalable solutions and sharing knowledge with the tech community.  
+With over 14 years of experience in technology, I specialize in **cloud computing**, **DevOps practices**, **automation**, and **software engineering**. I hold multiple industry-recognized certifications and I’m passionate about building scalable solutions and sharing knowledge with the tech community.  
 
 ---
 
@@ -76,9 +76,22 @@ With over 14 years of experience in technology, I specialize in **cloud computin
 
 ---
 
+## 📊 GitHub Stats  
+
+![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissoncastro&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alissoncastro&layout=compact&theme=radical)  
+
+---
+
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alissoncastro/)  
 - 🌐 [GitHub](https://github.com/alissoncastro)  
+
+---
+
+## 🐍 Contribution Snake  
+
+![Snake animation](https://github.com/alissoncastro/alissoncastro/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
