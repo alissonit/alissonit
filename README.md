@@ -76,23 +76,14 @@ With over 14 years of experience in technology, I specialize in **cloud computin
 
 ---
 
-## 📊 GitHub Stats  
-
-![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissoncastro&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alissoncastro&layout=compact&theme=radical)  
+## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alissonit&theme=radical)
 
 ---
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alissoncastro/)  
 - 🌐 [GitHub](https://github.com/alissoncastro)  
-
----
-
-## 🐍 Contribution Snake  
-
-![Snake animation](https://github.com/alissoncastro/alissoncastro/blob/output/github-contribution-grid-snake.svg)  
-
 ---
 
 ✨ *Passionate about innovation, scalable solutions, and continuous learning. This GitHub is where I share my journey through projects, experiments, and open-source contributions.*  
